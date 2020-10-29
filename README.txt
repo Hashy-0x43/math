@@ -1,0 +1,1 @@
+These are the math scripts I made during the quarentine of 2020 to help me in my Geometry.
